@@ -1,3 +1,3 @@
 # CODESOFT
-# Name: Suman Pokhrel
-# Batch: April A47
+## Name: Suman Pokhrel
+## Batch: April A47
